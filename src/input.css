@@ -61,5 +61,5 @@ body {
 }
 
 .scrollbar::-webkit-scrollbar-thumb:hover {
-  @apply bg-[#00a04a];
+  @apply bg-[#468ee6];
 }
